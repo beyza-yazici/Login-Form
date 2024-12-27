@@ -5,7 +5,7 @@ const Success = () => {
     return (
         <>
             <Alert>
-                <h1>Login Successful!</h1>
+                <h1>Login Successfully!</h1>
             </Alert>
         </>
     );
